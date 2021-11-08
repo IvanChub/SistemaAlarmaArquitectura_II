@@ -1,0 +1,37 @@
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\FinalArquitectura_II.exe.config
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\FinalArquitectura_II.exe
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\FinalArquitectura_II.pdb
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\MySql.Data.dll
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\Google.Protobuf.dll
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\Renci.SshNet.dll
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\MySql.Data.xml
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.csprojResolveAssemblyReference.cache
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.agregarUsr.resources
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.Form1.resources
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.Properties.Resources.resources
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.registroAc.resources
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.csproj.GenerateResource.Cache
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.exe
+c:\users\aleba\documents\visual studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.pdb
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\FinalArquitectura_II.exe.config
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.exe
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.pdb
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\FinalArquitectura_II.exe.config
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.exe
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.pdb
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\FinalArquitectura_II.exe
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\FinalArquitectura_II.pdb
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\MySql.Data.dll
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\Google.Protobuf.dll
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\Renci.SshNet.dll
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\bin\Debug\MySql.Data.xml
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.csprojResolveAssemblyReference.cache
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.agregarUsr.resources
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.Form1.resources
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.Properties.Resources.resources
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.registroAc.resources
+C:\Users\aleba\Desktop\FinalArquitectura_II\FinalArquitectura_II\obj\Debug\FinalArquitectura_II.csproj.GenerateResource.Cache
